@@ -1,5 +1,5 @@
 
-![App Screenshot]([https://d1b84bxizohw2s.cloudfront.net/media/img/slider/23-05/02/flo-1920x600.jpg](https://girisimektebi.com/wp-content/uploads/2020/07/Amazon.jpg))
+![App Screenshot](https://www.lezzetarayanlara.com/class/INNOVAEditor/assets/amazon.jpg)
 
 # Rating Product & Sorting Reviews in Amazon
 
